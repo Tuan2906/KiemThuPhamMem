@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59_2151050503_NguyenChauTuan_SelinumTest", "Selinu,\59_2151050503_NguyenChauTuan_SelinumTest.csproj", "{57BB3807-BA4C-48BD-ADEB-7A254C25FE40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59_2151050503_NguyenChauTuan_Unitest", "UnitTestProject1\59_2151050503_NguyenChauTuan_Unitest.csproj", "{934786FC-FB54-422F-8526-F6EB06691A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BB3807-BA4C-48BD-ADEB-7A254C25FE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BB3807-BA4C-48BD-ADEB-7A254C25FE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BB3807-BA4C-48BD-ADEB-7A254C25FE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BB3807-BA4C-48BD-ADEB-7A254C25FE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934786FC-FB54-422F-8526-F6EB06691A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934786FC-FB54-422F-8526-F6EB06691A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934786FC-FB54-422F-8526-F6EB06691A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934786FC-FB54-422F-8526-F6EB06691A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B822E0D-CB7F-45EC-958B-4C6AF8E6A91B}
+	EndGlobalSection
+EndGlobal
