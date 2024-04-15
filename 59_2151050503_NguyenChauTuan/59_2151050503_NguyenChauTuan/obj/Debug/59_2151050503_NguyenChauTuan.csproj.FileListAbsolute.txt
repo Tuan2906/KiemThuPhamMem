@@ -1,0 +1,17 @@
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\59_2151050503_NguyenChauTuan.exe.config
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\59_2151050503_NguyenChauTuan.exe
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\59_2151050503_NguyenChauTuan.pdb
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\WebDriver.dll
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\WebDriver.Support.dll
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\WebDriver.xml
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\bin\Debug\WebDriver.Support.xml
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\obj\Debug\59_2151050503_NguyenChauTuan.csproj.AssemblyReference.cache
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\obj\Debug\59_2151050503_NguyenChauTuan.csproj.CoreCompileInputs.cache
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\obj\Debug\59_2151050503_NguyenChauTuan.csproj.CopyComplete
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\obj\Debug\59_2151050503_NguyenChauTuan.exe
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan\obj\Debug\59_2151050503_NguyenChauTuan.pdb
