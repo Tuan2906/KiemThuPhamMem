@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
 namespace _59_2151050503_NguyenChauTuan_SelinumTest
 {
     public partial class Form1 : Form
@@ -39,32 +38,26 @@ namespace _59_2151050503_NguyenChauTuan_SelinumTest
             {
                 if(i==1)
                 {
-                    cmbchucnang.Items.Add("Tim kiem");
+                    cmbchucnang.Items.Add("Thong Tin Lien He");
                     break;
                 }
                 cmbchucnang.Items.Add("Dang Ki");
 
             }
         }
-        bool flag = true;
-        bool flag2 = true;
+       
         private void cmbchucnang_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (cmbchucnang.Text.Equals("Dang Ki") && flag == true)
+            if (cmbchucnang.Text.Equals("Dang Ki"))
             {
-                flag = false;
-                for (int i = 1; i < 2; i++)
-                {
-                    cmBox1.Items.Add("Testcase" + " "+i);
-                }
+             
+                grb2_59_Tuan.Visible = true;
+                grB1_59_Tuan.Visible = false;
             }
-            if (cmbchucnang.Text.Equals("Tim kiem") && flag2 == true)
+            if (cmbchucnang.Text.Equals("Thong Tin Lien He"))
             {
-                flag2 = false;
-                for (int i = 1; i < 3; i++)
-                {
-                    cmBox1.Items.Add("Testcase" + " " + i);
-                }
+                grB1_59_Tuan.Visible = true;
+                grb2_59_Tuan.Visible = false;
             }
         }
 
@@ -72,6 +65,71 @@ namespace _59_2151050503_NguyenChauTuan_SelinumTest
         {
            
             
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTTLH_59_Tuan(object sender, EventArgs e)
+        {
+            Button clickedButton_59_Tuan = (Button)sender;
+            _59_NguyenChauTuan_Selinum_ThongTinLienHe _59_NguyenChauTuan_Selinum_ThongTinLienHe= new _59_NguyenChauTuan_Selinum_ThongTinLienHe();
+            switch(clickedButton_59_Tuan.Text)
+            {
+                case "TestCase 1":
+                    _59_NguyenChauTuan_Selinum_ThongTinLienHe.selinum_ThongTinLienHe_TC1_59_Tuan();
+                    break;
+                case "TestCase 2":
+                    _59_NguyenChauTuan_Selinum_ThongTinLienHe.selinum_ThongTinLienHe_TC2_59_Tuan();
+                    break;
+                case "TestCase 3":
+                    _59_NguyenChauTuan_Selinum_ThongTinLienHe.selinum_ThongTinLienHe_TC3_59_Tuan();
+                    break;
+                case "TestCase 4":
+                    _59_NguyenChauTuan_Selinum_ThongTinLienHe.selinum_ThongTinLienHe_TC4_59_Tuan();
+                    break;
+                case "TestCase 5":
+                    _59_NguyenChauTuan_Selinum_ThongTinLienHe.selinum_ThongTinLienHe_TC5_59_Tuan();
+                    break;
+                case "TestCase 6":
+                    _59_NguyenChauTuan_Selinum_ThongTinLienHe.selinum_ThongTinLienHe_TC6_59_Tuan();
+                    break;
+            }
+       }
+
+        private void btnDangKi_59_Tuan(object sender, EventArgs e)
+        {
+            Button clickedButton_59_Tuan = (Button)sender;
+            _59_NguyenChauTuan_Selinum_DangKy _59_NguyenChauTuan_Selinum_DangKy = new _59_NguyenChauTuan_Selinum_DangKy();
+            switch (clickedButton_59_Tuan.Text)
+            {
+                case "TestCase 1":
+                   _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC1_59_Tuan();
+                    break;
+                case "TestCase 2":
+                _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC2_59_Tuan();
+                    break;
+                case "TestCase 3":
+                _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC3_59_Tuan();
+                    break;
+                case "TestCase 4":
+                _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC4_59_Tuan();
+                    break;
+                case "TestCase 5":
+                _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC5_59_Tuan();
+                    break;
+                case "TestCase 6":
+                _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC6_59_Tuan();
+                    break;
+                case "TestCase 7":
+                    _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC7_59_Tuan();
+                    break;
+                case "TestCase 8":
+                    _59_NguyenChauTuan_Selinum_DangKy.selinum_DangKy_TC8_59_Tuan();
+                    break;
+            }
         }
     }
    

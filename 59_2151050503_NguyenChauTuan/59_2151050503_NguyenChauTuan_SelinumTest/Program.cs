@@ -14,8 +14,7 @@ namespace _59_2151050503_NguyenChauTuan_SelinumTest
         [STAThread]
         static void Main()
         {
-            _59_NguyenChauTuan_Selinum_DangKy a = new _59_NguyenChauTuan_Selinum_DangKy();
-             a.selinum_DangKy_TC1_59_NCT();
+            
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

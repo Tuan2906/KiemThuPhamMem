@@ -21,3 +21,8 @@ C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_Nguye
 C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\obj\Debug\59_2151050503_NguyenChauTuan_Unittest.pdb
 C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\DataTest_59_Tuan\testDangNhap_59_Tuan.csv
 C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\DatTestTim_59_Tuan\testTim_59_Tuan.csv
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\59_2151050503_NguyenChauTuan.exe
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\WebDriver.Support.dll
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\59_2151050503_NguyenChauTuan.pdb
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\59_2151050503_NguyenChauTuan.exe.config
+C:\Users\tuanc\OneDrive\Desktop\59_2151050503_NguyenChauTuan\59_2151050503_NguyenChauTuan_Unittest\bin\Debug\WebDriver.Support.xml

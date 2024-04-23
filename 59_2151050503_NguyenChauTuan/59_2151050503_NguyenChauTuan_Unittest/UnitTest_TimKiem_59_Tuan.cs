@@ -16,7 +16,7 @@ namespace _59_2151050503_NguyenChauTuan_Unittest
         public TestContext TestContext { get; set; }
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV", @"..\\..\\DatTestTim_59_Tuan\testTim_59_Tuan.csv", "testTim_59_Tuan#csv", DataAccessMethod.Sequential)]// đọc file test.csv trong thư mục DatTesTim_59_Tuan
       // [TestMethod]
-        public void TimKiem_59_NCT()
+        public void TimKiem_59_Tuan()
         {
             // đóng cửa sổ màn hỉnh đen
             OpenQA.Selenium.Chrome.ChromeDriverService service_59_NguyenChauTuan = ChromeDriverService.CreateDefaultService();

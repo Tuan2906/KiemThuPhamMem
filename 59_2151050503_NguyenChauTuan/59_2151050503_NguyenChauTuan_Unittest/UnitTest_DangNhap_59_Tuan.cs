@@ -17,15 +17,15 @@ using System.IO;
 namespace _59_2151050503_NguyenChauTuan_Unittest
 {
     [TestClass]
-    public class UnitTest_DangNhap_59_NCT
+    public class UnitTest_DangNhap_59_Tuan
     {
 
 
         public TestContext TestContext { get; set; }
        // [TestMethod]
-        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV", @"..\\..\\DataTest_59_Tuan\\testDangNhap_59_Tuan.csv", "testDangNhap_59_Tuan#csv", DataAccessMethod.Sequential)]// đọc file test.csv trong thư mục Data
-        [TestMethod]
-        public void DangNhap_59_NCT()
+        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV", @"..\\..\\DataTest_59_Tuan\\testDangNhap_59_Tuan.csv", "testDangNhap_59_Tuan#csv", DataAccessMethod.Sequential)]// đọc file testDangNhap_59_Tuan.csv trong thư mục DataTest_59_Tuan
+       [TestMethod]
+        public void DangNhap_59_Tuan()
         {
             //  đóng cửa sổ màn hình đen
             OpenQA.Selenium.Chrome.ChromeDriverService service_59_NguyenChauTuan = ChromeDriverService.CreateDefaultService();
@@ -62,7 +62,7 @@ namespace _59_2151050503_NguyenChauTuan_Unittest
                 File.WriteAllText(filePath_59_NguyenChauTuan, "Email,Password,Result,\n");// nếu không tồn tại sẽ tạo một tệp tin mới với đường dẫn đó và ghi dòng "Name,Result" vào tệp tin.
             }
             File.AppendAllText(filePath_59_NguyenChauTuan, email_59_NguyenChauTuan+ ","+password_59_NguyenChauTuan+"," + result_59_NguyenChauTuan + "\n");// ghi dữ liệu tập tin 
-            Assert.AreEqual(actual_59_NguyenChauTuan, expected_59_NguyenChauTuan);// so sánh giá trị ket qua nếu không bằng gia tri mong doi thì test case pass ngược lại fail
+            Assert.AreEqual(actual_59_NguyenChauTuan, expected_59_NguyenChauTuan);// so sánh giá trị ket qua nếu  bằng gia tri mong doi thì test case pass ngược lại fail
            
 
         }
